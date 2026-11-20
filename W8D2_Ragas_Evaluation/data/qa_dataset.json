@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is Artificial Intelligence?",
+    "ground_truth": "Artificial Intelligence is the ability of machines to perform tasks that normally require human intelligence."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "ground_truth": "Machine Learning is a branch of AI that enables computers to learn patterns from data and make predictions."
+  },
+  {
+    "question": "What is Deep Learning?",
+    "ground_truth": "Deep Learning is a subset of machine learning that uses neural networks with multiple layers."
+  },
+  {
+    "question": "What is Natural Language Processing?",
+    "ground_truth": "Natural Language Processing enables computers to understand, process, and generate human language."
+  },
+  {
+    "question": "What is a Large Language Model?",
+    "ground_truth": "A Large Language Model is an AI model trained on large amounts of text to understand and generate human language."
+  },
+  {
+    "question": "What is RAG?",
+    "ground_truth": "Retrieval Augmented Generation combines information retrieval with language generation to produce answers grounded in external documents."
+  },
+  {
+    "question": "What is vector database?",
+    "ground_truth": "A vector database stores and searches vector embeddings to find semantically similar information."
+  },
+  {
+    "question": "What is ChromaDB?",
+    "ground_truth": "ChromaDB is an open-source vector database used to store embeddings and perform similarity searches."
+  },
+  {
+    "question": "What is LangChain?",
+    "ground_truth": "LangChain is a framework for developing applications powered by language models."
+  },
+  {
+    "question": "What is Ragas?",
+    "ground_truth": "Ragas is a framework used to evaluate and improve Retrieval Augmented Generation systems."
+  }
+]

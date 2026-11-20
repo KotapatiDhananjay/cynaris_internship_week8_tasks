@@ -1,0 +1,11 @@
+question_number,question,bm25_precision,dense_precision
+1,What is Artificial Intelligence and Machine Learning?,0.3333333333333333,0.3333333333333333
+2,What are supervised and unsupervised learning?,0.3333333333333333,0.3333333333333333
+3,What is Natural Language Processing?,0.3333333333333333,0.3333333333333333
+4,What is tokenization in NLP?,0.3333333333333333,0.3333333333333333
+5,What is Retrieval Augmented Generation?,0.3333333333333333,0.3333333333333333
+6,How does RAG improve factual grounding?,0.3333333333333333,0.3333333333333333
+7,What are vector embeddings?,0.3333333333333333,0.3333333333333333
+8,What is semantic similarity search?,0.3333333333333333,0.3333333333333333
+9,What is BM25Retriever in Haystack?,0.3333333333333333,0.3333333333333333
+10,What is precision in information retrieval?,0.3333333333333333,0.3333333333333333

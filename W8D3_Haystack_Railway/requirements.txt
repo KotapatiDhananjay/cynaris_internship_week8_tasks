@@ -1,0 +1,9 @@
+haystack-ai
+sentence-transformers-haystack
+sentence-transformers
+pypdf
+reportlab
+pandas
+fastapi
+uvicorn
+python-multipart

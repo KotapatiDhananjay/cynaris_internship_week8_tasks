@@ -1,0 +1,11 @@
+question_number,question,expected_source,retrieved_sources,relevant_documents,precision_at_3
+1,What is Artificial Intelligence and Machine Learning?,document1.pdf,"document1.pdf, document5.pdf, document3.pdf",1,0.3333333333333333
+2,What are supervised and unsupervised learning?,document1.pdf,"document1.pdf, document4.pdf, document5.pdf",1,0.3333333333333333
+3,What is Natural Language Processing?,document2.pdf,"document2.pdf, document3.pdf, document1.pdf",1,0.3333333333333333
+4,What is tokenization in NLP?,document2.pdf,"document2.pdf, document1.pdf, document5.pdf",1,0.3333333333333333
+5,What is Retrieval Augmented Generation?,document3.pdf,"document3.pdf, document5.pdf, document1.pdf",1,0.3333333333333333
+6,How does RAG improve factual grounding?,document3.pdf,"document3.pdf, document5.pdf",1,0.3333333333333333
+7,What are vector embeddings?,document4.pdf,"document4.pdf, document5.pdf",1,0.3333333333333333
+8,What is semantic similarity search?,document4.pdf,"document4.pdf, document5.pdf, document1.pdf",1,0.3333333333333333
+9,What is BM25Retriever in Haystack?,document5.pdf,"document5.pdf, document1.pdf",1,0.3333333333333333
+10,What is precision in information retrieval?,document5.pdf,"document5.pdf, document1.pdf, document3.pdf",1,0.3333333333333333

@@ -1,0 +1,9 @@
+langgraph
+langchain-core
+langchain-ollama
+ollama
+pypdf
+scikit-learn
+pandas
+mlflow
+pytest

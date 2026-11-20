@@ -1,0 +1,37 @@
+Artificial Intelligence Research
+
+Artificial Intelligence is a branch of computer science that develops systems capable of performing tasks that normally require human intelligence.
+
+Machine Learning is a subset of Artificial Intelligence. It allows computers to learn patterns from data and make predictions.
+
+Deep Learning uses artificial neural networks with multiple layers to process complex information.
+
+Natural Language Processing enables computers to understand and generate human language.
+
+Retrieval Augmented Generation combines document retrieval with language generation. It allows AI systems to answer questions using external knowledge sources.
+
+Large Language Models are trained on large text datasets. They can generate text, summarize information and answer questions.
+
+AI Research Assistant
+
+An AI Research Assistant helps users search documents, understand information, summarize research and generate answers.
+
+LangGraph is a framework for building stateful AI workflows using nodes and edges.
+
+Ollama allows users to run large language models locally without requiring cloud API access.
+
+TF-IDF is a text retrieval technique that measures the importance of words in documents.
+
+MLflow is an experiment tracking platform used to record parameters, metrics and model outputs.
+
+Document Retrieval
+
+A document retrieval system searches a collection of documents to find information relevant to a user query.
+
+PDF extraction converts PDF files into readable text.
+
+Text chunking divides large documents into smaller sections.
+
+Cosine similarity measures similarity between numerical vectors.
+
+A research assistant can combine document retrieval and a language model to provide context-based answers.

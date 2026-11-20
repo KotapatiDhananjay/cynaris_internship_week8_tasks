@@ -1,0 +1,26 @@
+﻿# Production RAG System
+
+Retrieval-Augmented Generation (RAG) combines information retrieval with generative AI.
+
+A RAG system retrieves relevant information from a document collection and uses a language model to generate answers based on the retrieved information.
+
+## Main Components
+
+1. Document Loading: Reads PDF and TXT documents.
+2. Text Splitting: Divides large documents into smaller chunks.
+3. Embeddings: Converts text into numerical vectors.
+4. Vector Database: Stores document embeddings.
+5. Retriever: Finds relevant document chunks.
+6. Language Model: Generates answers using retrieved context.
+
+## Production Monitoring
+
+A production RAG application should monitor response latency, request volume, error rate, retrieval quality, and model performance.
+
+## Evaluation
+
+RAG systems can be evaluated using metrics such as faithfulness, answer relevancy, and context precision.
+
+## Deployment
+
+Docker can package the application and its dependencies. GitHub Actions can automate testing, linting, and Docker image building.

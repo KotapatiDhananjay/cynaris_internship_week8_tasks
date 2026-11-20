@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.git/
+.env
+*.db
+*.log
+mlruns/
+chroma_db/
+outputs/

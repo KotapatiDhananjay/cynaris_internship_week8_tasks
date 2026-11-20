@@ -1,0 +1,23 @@
+# W8D5 Self Review Checklist
+
+- [x] Created local AI research assistant.
+- [x] Integrated LangGraph.
+- [x] Integrated Ollama.
+- [x] Used a locally running language model.
+- [x] Implemented document loading.
+- [x] Implemented PDF support.
+- [x] Implemented TXT support.
+- [x] Implemented text chunking.
+- [x] Implemented TF-IDF retrieval.
+- [x] Implemented cosine similarity.
+- [x] Implemented answer generation.
+- [x] Implemented source display.
+- [x] Integrated MLflow.
+- [x] Created automated test cases.
+- [x] Created technical documentation.
+- [ ] Executed all tests successfully.
+- [ ] Tested with additional PDF documents.
+- [ ] Verified MLflow dashboard.
+- [ ] Captured screenshots.
+- [ ] Completed CIA mentor code review.
+- [ ] Completed Git workflow separately.
